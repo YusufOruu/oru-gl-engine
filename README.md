@@ -1,2 +1,8 @@
 # oru-gl-engine
-Custom OpenGL-like engine from scratch
+
+My first OpenGL engine
+
+## Features
+- Shader
+- Texture
+- Offscreen rendering
