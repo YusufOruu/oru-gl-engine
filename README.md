@@ -7,4 +7,4 @@ My first OpenGL engine
 - Texture
 - Offscreen rendering
 - 
-## Not gör use rn.
+## Not for use rn.
